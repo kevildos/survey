@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ut++iZC2f1eNQ385o4qSRT5KuuV12qdhTZxor22HiupvJM0zXmJ28/4UKcWsw9OYR1S9TsmIJ/2GvkvBPUNjsg==",
+  "success": true,
+  "projectFilePath": "/Users/kevinvildosola/Projects/Survey/Survey.iOS/Survey.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/kevinvildosola/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/kevinvildosola/.nuget/packages/xamarin.essentials/1.3.1/xamarin.essentials.1.3.1.nupkg.sha512",
+    "/Users/kevinvildosola/.nuget/packages/xamarin.forms/4.5.0.495/xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Survey.SurveyEnd" xmlns:local="clr-namespace:Survey.Models">
+    <StackLayout Margin="0, 20, 0, 0">
+        <Label Text="Survey Complete!" HorizontalOptions="Center"/>
+        <Button Text="Back to Dashboard"
+                x:Name="toDashboard"
+                Clicked="toDashboard_Clicked"/>
+        <ListView ItemsSource="{x:Static local:SurveyData.SurveyResponses}"/>
+    </StackLayout>
+</ContentPage>

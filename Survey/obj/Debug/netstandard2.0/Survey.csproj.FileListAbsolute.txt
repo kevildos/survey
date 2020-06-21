@@ -1,0 +1,17 @@
+/Users/kevinvildosola/Projects/Survey/Survey/obj/Debug/netstandard2.0/Survey.csprojAssemblyReference.cache
+/Users/kevinvildosola/Projects/Survey/Survey/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/kevinvildosola/Projects/Survey/Survey/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/kevinvildosola/Projects/Survey/Survey/obj/Debug/netstandard2.0/Survey.AssemblyInfoInputs.cache
+/Users/kevinvildosola/Projects/Survey/Survey/obj/Debug/netstandard2.0/Survey.AssemblyInfo.cs
+/Users/kevinvildosola/Projects/Survey/Survey/obj/Debug/netstandard2.0/Survey.csproj.CoreCompileInputs.cache
+/Users/kevinvildosola/Projects/Survey/Survey/obj/Debug/netstandard2.0/Survey.dll
+/Users/kevinvildosola/Projects/Survey/Survey/obj/Debug/netstandard2.0/ref/Survey.dll
+/Users/kevinvildosola/Projects/Survey/Survey/obj/Debug/netstandard2.0/Survey.pdb
+/Users/kevinvildosola/Projects/Survey/Survey/bin/Debug/netstandard2.0/Survey.deps.json
+/Users/kevinvildosola/Projects/Survey/Survey/bin/Debug/netstandard2.0/Survey.dll
+/Users/kevinvildosola/Projects/Survey/Survey/bin/Debug/netstandard2.0/ref/Survey.dll
+/Users/kevinvildosola/Projects/Survey/Survey/bin/Debug/netstandard2.0/Survey.pdb
+/Users/kevinvildosola/Projects/Survey/Survey/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/kevinvildosola/Projects/Survey/Survey/obj/Debug/netstandard2.0/View/SurveyEnd.xaml.g.cs
+/Users/kevinvildosola/Projects/Survey/Survey/obj/Debug/netstandard2.0/View/SurveyStart.xaml.g.cs
+/Users/kevinvildosola/Projects/Survey/Survey/obj/Debug/netstandard2.0/View/SurveyTemplate.xaml.g.cs
